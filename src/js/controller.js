@@ -99,3 +99,4 @@ const init=function(){
   paginationView.addHandlerClick(controlPagination);
 }
 init();
+console.log('checkin');
